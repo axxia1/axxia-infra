@@ -1,0 +1,23 @@
+services:
+  - type: web
+    name: axxia-terminology-api
+    env: docker
+    plan: starter
+    autoDeploy: true
+    healthCheckPath: /healthz
+    dockerfilePath: ./Dockerfile
+    envVars:
+      - key: PG_DSN
+        fromDatabase:
+          name: axxia-postgres
+          property: connectionString
+      - key: REDIS_URL
+        fromService:
+          name: axxia-redis
+          type: redis
+databases:
+  - name: axxia-postgres
+    plan: free
+redis:
+  - name: axxia-redis
+    plan: free
