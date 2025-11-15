@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "version": "2.0",
+    "last_updated": "2025-11-03",
+    "total_insurers": 30,
+    "note": "Catálogo base de aseguradoras mexicanas registradas ante AMIS (Asociación Mexicana de Instituciones de Seguros). Todas cuentan con AXXIA ID único."
+  },
+  "insurers_mx": [
+    { "name": "GNP Seguros (Grupo Nacional Provincial)", "slug": "gnp", "axxia_id": "AX-INS-001001001001" },
+    { "name": "AXA Seguros México", "slug": "axa", "axxia_id": "AX-INS-002002002002" },
+    { "name": "MetLife México", "slug": "metlife", "axxia_id": "AX-INS-003003003003" },
+    { "name": "Seguros Monterrey New York Life", "slug": "monterrey-nyl", "axxia_id": "AX-INS-004004004004" },
+    { "name": "Inbursa Seguros", "slug": "inbursa", "axxia_id": "AX-INS-005005005005" },
+    { "name": "MAPFRE México", "slug": "mapfre", "axxia_id": "AX-INS-006006006006" },
+    { "name": "Seguros Atlas", "slug": "atlas", "axxia_id": "AX-INS-007007007007" },
+    { "name": "Bupa México", "slug": "bupa", "axxia_id": "AX-INS-008008008008" },
+    { "name": "Allianz México", "slug": "allianz", "axxia_id": "AX-INS-009009009009" },
+    { "name": "Banorte Seguros", "slug": "banorte", "axxia_id": "AX-INS-010010010010" },
+    { "name": "Seguros Banorte Generali", "slug": "banorte-generali", "axxia_id": "AX-INS-011011011011" },
+    { "name": "Zurich Seguros", "slug": "zurich", "axxia_id": "AX-INS-012012012012" },
+    { "name": "Seguros El Potosí", "slug": "potosi", "axxia_id": "AX-INS-013013013013" },
+    { "name": "HDI Seguros", "slug": "hdi", "axxia_id": "AX-INS-014014014014" },
+    { "name": "Qualitas Compañía de Seguros", "slug": "qualitas", "axxia_id": "AX-INS-015015015015" },
+    { "name": "Chubb Seguros México", "slug": "chubb", "axxia_id": "AX-INS-016016016016" },
+    { "name": "Plan Seguro", "slug": "plan-seguro", "axxia_id": "AX-INS-017017017017" },
+    { "name": "ACE Seguros", "slug": "ace", "axxia_id": "AX-INS-018018018018" },
+    { "name": "Seguros Afirme", "slug": "afirme", "axxia_id": "AX-INS-019019019019" },
+    { "name": "Prudential Seguros México", "slug": "prudential", "axxia_id": "AX-INS-020020020020" },
+    { "name": "Seguros Argos", "slug": "argos", "axxia_id": "AX-INS-021021021021" },
+    { "name": "Principal Seguros", "slug": "principal", "axxia_id": "AX-INS-022022022022" },
+    { "name": "BBVA Seguros", "slug": "bbva-seguros", "axxia_id": "AX-INS-023023023023" },
+    { "name": "Santander Seguros", "slug": "santander", "axxia_id": "AX-INS-024024024024" },
+    { "name": "Agroasemex", "slug": "agroasemex", "axxia_id": "AX-INS-025025025025" },
+    { "name": "General de Seguros", "slug": "general", "axxia_id": "AX-INS-026026026026" },
+    { "name": "Mapfre Tepeyac", "slug": "mapfre-tepeyac", "axxia_id": "AX-INS-027027027027" },
+    { "name": "ANA Seguros", "slug": "ana", "axxia_id": "AX-INS-028028028028" },
+    { "name": "Seguros Multiva", "slug": "multiva", "axxia_id": "AX-INS-029029029029" },
+    { "name": "Tokio Marine", "slug": "tokio-marine", "axxia_id": "AX-INS-030030030030" }
+  ]
+}
